@@ -1,9 +1,13 @@
 ### Hi there 👋
 
+# :rocket: About me 
+
+
+
 <!--
 **Chris-1994/Chris-1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# :rocket: About me 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
