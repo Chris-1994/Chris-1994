@@ -1,6 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
-## :rocket: About me 
+### :rocket: About me 
+
+I'm Chris Jadama, a Cross Platform
 
 
 
