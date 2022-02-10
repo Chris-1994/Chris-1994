@@ -1,7 +1,6 @@
 # Hi there I'm Chris👋
 
 
-
 ##<p> my name is Chris Jadama and I'm a software developer. I'm from Sweden, living in Norway.</p>
 
 <h3 align="left">Languages and Tools:</h3>
