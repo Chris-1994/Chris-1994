@@ -1,7 +1,7 @@
 # Hi there I'm Chris👋
 
-<p> I'm a software develope from :sweden: and currently live in :norway: 
-I love learning and solving problems, and that has been the main focus in my life to learn as much as possible and create as much as possible!
+<p> I'm a software developer from :sweden: and currently live in :norway: 
+I love learning and solving problems :brain:, and that has been the main focus in my life to learn as much as possible and create as much as possible!
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
