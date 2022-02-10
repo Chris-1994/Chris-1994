@@ -1,6 +1,6 @@
 # Hi there I'm Chris👋
 
-### I'm looking for new new things in technology
+
 ### I'm working on contributing to Open Source projects
 
 
